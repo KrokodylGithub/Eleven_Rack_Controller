@@ -16,3 +16,6 @@ Features:
 - fast scroll banks (long press BANK+ or BANK-)
 - saves effects states (long press TAP TEMPO)
 - operates on User Presets of Eleven Rack
+
+
+Used libraries from https://www.pjrc.com/
